@@ -7,8 +7,12 @@ This repository contains a web-based implementation of the classic Simon game. P
 Features:
 
 Authentic gameplay: Mimics the classic Simon game experience.
+
 Visually appealing UI: Clean and user-friendly interface.
+
 Interactive sound effects: Each color button has a corresponding sound.
+
 Customizable difficulty: Challenge yourself with increasing sequence lengths.
+
 
 TRY the Game here - https://shubhampatel001.github.io/Simon-Game-Challenge/
